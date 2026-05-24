@@ -40,7 +40,7 @@ export function Contact() {
                     (0236) 312 64 75
                   </a>
                   <a href="tel:05358423195" className="block text-foreground/70 font-serif text-xl hover:text-primary transition-colors mt-1">
-                    0535 842 31 95
+                    (0535) 842 31 95
                   </a>
                 </div>
               </div>

@@ -17,7 +17,7 @@ export function Footer() {
               </p>
               <p>
                 <a href="tel:05358423195" className="hover:text-primary transition-colors">
-                  0535 842 31 95
+                  (0535) 842 31 95
                 </a>
               </p>
               <p>Selvilitepe, 104. Sk. No:47, 45400 Turgutlu / Manisa</p>
