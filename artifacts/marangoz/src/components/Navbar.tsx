@@ -46,7 +46,7 @@ export function Navbar() {
           onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
           className="font-display text-3xl tracking-widest text-foreground z-50 relative"
         >
-          Çimen Press.
+          Çimen Press
         </button>
 
         {/* Desktop Nav */}

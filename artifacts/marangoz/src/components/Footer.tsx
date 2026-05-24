@@ -5,7 +5,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           
           <div className="col-span-1 lg:col-span-2">
-            <h2 className="text-4xl font-display tracking-widest text-foreground mb-6">Çimen Press.</h2>
+            <h2 className="text-4xl font-display tracking-widest text-foreground mb-6">Çimen Press</h2>
             <p className="text-foreground/70 leading-relaxed max-w-sm mb-8">
               CNC teknolojisi ile MDF, sunta ve laminat kullanarak ölçüye özel kapı modelleri ve dolap sistemleri üretiyoruz.
             </p>
@@ -33,7 +33,7 @@ export function Footer() {
         </div>
 
         <div className="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-border/50 text-sm text-foreground/50">
-          <p>&copy; {new Date().getFullYear()} Çimen Press. Tüm hakları saklıdır.</p>
+          <p>&copy; {new Date().getFullYear()} Çimen Press Tüm hakları saklıdır.</p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-foreground">Gizlilik Politikası</a>
             <a href="#" className="hover:text-foreground">Kullanım Şartları</a>
