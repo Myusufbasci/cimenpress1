@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "_cCcJ_hT9ESMgNKPRT5sY"
+uri = "file://artifacts/marangoz/src/assets/hero.png"
+type = "image"
+title = "Epic carpentry workshop hero"
+
+[[generated]]
+id = "isaDjWXtLMMN-gddwAlY-"
+uri = "file://artifacts/marangoz/src/assets/door-classic.png"
+type = "image"
+title = "Classic carved wooden door"
+
+[[generated]]
+id = "tjBvGCg1u1tZLtLRCfRYy"
+uri = "file://artifacts/marangoz/src/assets/door-modern.png"
+type = "image"
+title = "Modern minimalist wooden door"
+
+[[generated]]
+id = "LbKU0VpojRj9EP7AEoD-u"
+uri = "file://artifacts/marangoz/src/assets/wardrobe.png"
+type = "image"
+title = "Handcrafted wooden wardrobe"
+
+[[generated]]
+id = "DiRFyzMK6iJ1BDnlhBKrx"
+uri = "file://artifacts/marangoz/src/assets/grain.png"
+type = "image"
+title = "Macro wood grain close-up"
+
+[[generated]]
+id = "LnP8Qf_IMyAMjSylIWOgg"
+uri = "file://artifacts/marangoz/src/assets/craftsman.png"
+type = "image"
+title = "Craftsman hands planing wood"
