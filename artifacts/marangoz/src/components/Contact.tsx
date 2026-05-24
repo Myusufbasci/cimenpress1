@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Phone, Mail, MapPin, Send, MessageCircle } from "lucide-react";
+import { Phone, MapPin, Send } from "lucide-react";
 
 export function Contact() {
   return (
@@ -36,8 +36,11 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-foreground mb-1 uppercase tracking-wider text-sm">Telefon</h4>
-                  <a href="tel:02363126475" className="text-foreground/70 font-serif text-xl hover:text-primary transition-colors">
+                  <a href="tel:02363126475" className="block text-foreground/70 font-serif text-xl hover:text-primary transition-colors">
                     (0236) 312 64 75
+                  </a>
+                  <a href="tel:05358423195" className="block text-foreground/70 font-serif text-xl hover:text-primary transition-colors mt-1">
+                    0535 842 31 95
                   </a>
                 </div>
               </div>
@@ -59,16 +62,6 @@ export function Contact() {
                   </a>
                 </div>
               </div>
-
-              <a
-                href="https://wa.me/902363126475"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-4 bg-[#25D366] text-white px-6 py-4 font-semibold tracking-wide hover:bg-[#1ebe5d] transition-colors w-fit"
-              >
-                <MessageCircle size={22} />
-                WhatsApp ile Yazın
-              </a>
             </div>
           </motion.div>
 
