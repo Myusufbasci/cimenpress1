@@ -6,7 +6,7 @@ export function Process() {
     {
       num: "01",
       title: "Ölçü & Tasarım",
-      desc: "Mekanınızın ölçüleri alınır. Model, renk ve malzeme seçimleri (MDF, sunta, laminant) birlikte belirlenir."
+      desc: "Mekanınızın ölçüleri alınır. Model, renk ve malzeme seçimleri (MDF, sunta, laminat) birlikte belirlenir."
     },
     {
       num: "02",
@@ -16,7 +16,7 @@ export function Process() {
     {
       num: "03",
       title: "Kaplama & Boya",
-      desc: "Kesilen parçalara laminant veya PVC kaplama uygulanır, boya ve yüzey işlemleri tamamlanır."
+      desc: "Kesilen parçalara laminat veya PVC kaplama uygulanır, boya ve yüzey işlemleri tamamlanır."
     },
     {
       num: "04",

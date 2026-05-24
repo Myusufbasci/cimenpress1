@@ -8,14 +8,14 @@ export function Services() {
     {
       id: "doors",
       title: "CNC Kapı Modelleri",
-      desc: "CNC makinelerimizle üretilen modern ve şık kapı modelleri. MDF üzerine işlenen özel desenler, laminant veya PVC kaplama seçenekleri. İç mekan kapılarında geniş model yelpazesi.",
+      desc: "CNC makinelerimizle üretilen modern ve şık kapı modelleri. MDF üzerine işlenen özel desenler, laminat veya PVC kaplama seçenekleri. İç mekan kapılarında geniş model yelpazesi.",
       image: doorClassic,
       imageAlt: "CNC Kapı Modelleri",
     },
     {
       id: "wardrobes",
       title: "Şık Dolap Sistemleri",
-      desc: "Sunta ve MDF tabanlı, laminant kaplamalı gömme ve bağımsız dolap sistemleri. Yatak odası gardıroplarından mutfak dolaplarına, her alana özel ölçü üretim.",
+      desc: "Sunta ve MDF tabanlı, laminat kaplamalı gömme ve bağımsız dolap sistemleri. Yatak odası gardıroplarından mutfak dolaplarına, her alana özel ölçü üretim.",
       image: wardrobe,
       imageAlt: "Modern Dolap Sistemi",
     },
