@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Phone, Mail, MapPin, Send } from "lucide-react";
+import { Phone, Mail, MapPin, Send, MessageCircle } from "lucide-react";
 
 export function Contact() {
   return (
@@ -35,18 +35,10 @@ export function Contact() {
                   <Phone size={20} />
                 </div>
                 <div>
-                  <h4 className="font-semibold text-foreground mb-1 uppercase tracking-wider text-sm">Bizi Arayın / WhatsApp</h4>
-                  <p className="text-foreground/70 font-serif text-xl">+90 (555) 123 45 67</p>
-                </div>
-              </div>
-
-              <div className="flex items-start gap-6">
-                <div className="w-12 h-12 rounded-full bg-muted flex items-center justify-center text-primary shrink-0">
-                  <Mail size={20} />
-                </div>
-                <div>
-                  <h4 className="font-semibold text-foreground mb-1 uppercase tracking-wider text-sm">E-Posta</h4>
-                  <p className="text-foreground/70">bilgi@ahsapusta.com.tr</p>
+                  <h4 className="font-semibold text-foreground mb-1 uppercase tracking-wider text-sm">Telefon</h4>
+                  <a href="tel:02363126475" className="text-foreground/70 font-serif text-xl hover:text-primary transition-colors">
+                    (0236) 312 64 75
+                  </a>
                 </div>
               </div>
 
@@ -55,13 +47,28 @@ export function Contact() {
                   <MapPin size={20} />
                 </div>
                 <div>
-                  <h4 className="font-semibold text-foreground mb-1 uppercase tracking-wider text-sm">Atölye Adresi</h4>
-                  <p className="text-foreground/70 leading-relaxed max-w-[250px]">
-                    Ağaç İşleri Sanayi Sitesi, 14. Sokak No:42 <br/>
-                    Ostim / Ankara
-                  </p>
+                  <h4 className="font-semibold text-foreground mb-1 uppercase tracking-wider text-sm">Adres</h4>
+                  <a
+                    href="https://www.google.com/maps/search/Selvilitepe,+104.+Sk.+No:47,+45400+Turgutlu/Manisa"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-foreground/70 leading-relaxed hover:text-primary transition-colors"
+                  >
+                    Selvilitepe, 104. Sk. No:47<br/>
+                    45400 Turgutlu / Manisa
+                  </a>
                 </div>
               </div>
+
+              <a
+                href="https://wa.me/902363126475"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-4 bg-[#25D366] text-white px-6 py-4 font-semibold tracking-wide hover:bg-[#1ebe5d] transition-colors w-fit"
+              >
+                <MessageCircle size={22} />
+                WhatsApp ile Yazın
+              </a>
             </div>
           </motion.div>
 

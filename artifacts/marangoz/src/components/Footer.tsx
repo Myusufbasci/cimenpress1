@@ -6,9 +6,17 @@ export function Footer() {
           
           <div className="col-span-1 lg:col-span-2">
             <h2 className="text-4xl font-display tracking-widest text-foreground mb-6">Çimen Press</h2>
-            <p className="text-foreground/70 leading-relaxed max-w-sm mb-8">
+            <p className="text-foreground/70 leading-relaxed max-w-sm mb-6">
               CNC teknolojisi ile MDF, sunta ve laminat kullanarak ölçüye özel kapı modelleri ve dolap sistemleri üretiyoruz.
             </p>
+            <div className="space-y-2 text-foreground/60 text-sm">
+              <p>
+                <a href="tel:02363126475" className="hover:text-primary transition-colors">
+                  (0236) 312 64 75
+                </a>
+              </p>
+              <p>Selvilitepe, 104. Sk. No:47, 45400 Turgutlu / Manisa</p>
+            </div>
           </div>
 
           <div>
