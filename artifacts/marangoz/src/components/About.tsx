@@ -24,8 +24,8 @@ export function About() {
             {/* Decorative block behind image */}
             <div className="absolute top-10 right-0 bottom-[-40px] w-3/4 bg-muted z-0" />
             <div className="absolute -bottom-6 left-6 z-20 bg-background p-6 border-l-2 border-primary max-w-[250px] shadow-lg">
-              <p className="text-4xl font-serif text-primary mb-2">40+</p>
-              <p className="text-sm text-foreground/70 font-medium uppercase tracking-wider">Yıllık Ustalık ve Tecrübe</p>
+              <p className="text-4xl font-serif text-primary mb-2">500+</p>
+              <p className="text-sm text-foreground/70 font-medium uppercase tracking-wider">Tamamlanan Proje</p>
             </div>
           </motion.div>
 
@@ -49,19 +49,19 @@ export function About() {
 
             <div className="space-y-6 text-foreground/75 leading-relaxed">
               <p>
-                Çimen Press olarak hikayemiz küçük bir atölyede, talaş kokusu ve zımpara sesleri arasında başladı. Seri üretimin ruhsuzluğuna karşı durarak, ahşabın doğal karakterini koruyan ve ona saygı duyan bir yaklaşım benimsedik.
+                Çimen Press olarak yılların deneyimini CNC teknolojisiyle birleştirdik. Geleneksel üretimin sınırlarını aşarak, bilgisayar destekli tasarım ve hassas kesim makineleriyle her projeyi bir adım öteye taşıyoruz.
               </p>
               <p>
-                Her bir ağaç kütüğü kendine has bir hikaye anlatır. Damarlarındaki çizgiler, renk geçişleri ve dokusu eşsizdir. Bizim görevimiz, bu doğal güzelliği evinize yakışacak bir forma sokmaktır. İster modern çizgiler barındıran minimalist bir kapı, ister klasik oymalı detaylara sahip devasa bir gardırop olsun; hepsinde aynı hassasiyet ve ustalık gizlidir.
+                MDF, sunta ve laminat gibi modern malzemeleri en verimli şekilde kullanarak hem dayanıklı hem de estetik ürünler ortaya koyuyoruz. İster tek bir kapı, ister tüm bir dairenin dolap sistemi olsun; CNC makinelerimiz aynı hassasiyetle her işi tamamlar.
               </p>
               <p className="font-medium text-foreground">
-                Sadece mobilya değil, nesiller boyu kullanılacak miraslık parçalar üretiyoruz.
+                Teknoloji ve tasarımı birleştirerek yaşam alanlarınızı değiştiriyoruz.
               </p>
             </div>
 
             <div className="mt-10 pt-10 border-t border-border/60">
               <p className="font-serif text-2xl italic text-foreground/90">
-                "İyi bir ahşap işçiliği, gözle görülmeden önce dokunarak hissedilir."
+                "Doğru teknoloji ve doğru malzeme ile her tasarım mümkündür."
               </p>
               <p className="mt-2 text-sm text-primary tracking-wide uppercase font-semibold">Enver Çimen, Kurucu</p>
             </div>

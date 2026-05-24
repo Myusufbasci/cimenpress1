@@ -27,7 +27,7 @@ export function Hero() {
           >
             <div className="h-[1px] w-12 bg-primary" />
             <span className="text-sm font-semibold tracking-widest uppercase text-primary">
-              Geleneksel Zanaat
+              CNC Üretim & Modern Tasarım
             </span>
           </motion.div>
 
@@ -37,9 +37,9 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-serif text-foreground leading-[1.1] mb-8"
           >
-            Ahşabın <br />
-            <span className="italic text-primary/90">Ruhuyla</span> <br />
-            Şekillenen Yaşam
+            CNC ile <br />
+            <span className="italic text-primary/90">Şekillenen</span> <br />
+            Modern Yaşam
           </motion.h1>
 
           <motion.p
@@ -48,7 +48,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg md:text-xl text-foreground/80 leading-relaxed mb-10 max-w-xl"
           >
-            Nesillerdir süregelen ustalıkla, yaşam alanlarınıza özel ahşap kapılar ve dolaplar tasarlıyoruz. Her bir parça, evinize doğanın sıcaklığını taşımak için özenle el işçiliğiyle üretiliyor.
+            CNC makinelerimizle milimetrik hassasiyette üretilen şık kapı modelleri, MDF ve laminat dolaplar. Seri üretimin ötesinde, ölçüye özel çözümler sunuyoruz.
           </motion.p>
 
           <motion.div

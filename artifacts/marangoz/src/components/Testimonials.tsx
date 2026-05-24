@@ -13,7 +13,7 @@ export function Testimonials() {
       role: "İç Mimar",
     },
     {
-      quote: "Dedemden kalan antika ceviz ağaçlarını kusursuz bir gardıroba dönüştürdüler. Sadece bir mobilya değil, aile yadigarı yarattılar.",
+      quote: "Tüm dairenin dolap sistemini Çimen Press'e yaptırdık. CNC kesimin hassasiyeti sayesinde her köşe tastamam oturdu, ölçü hatası sıfır.",
       author: "Ayşe B.",
       role: "Müşteri",
     }

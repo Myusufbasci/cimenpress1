@@ -7,24 +7,24 @@ export function Services() {
   const services = [
     {
       id: "doors",
-      title: "Klasik & Modern Kapılar",
-      desc: "Evlerinize karakter katan, masif ceviz ve meşeden üretilmiş yüksek yalıtımlı, uzun ömürlü iç ve dış mekan kapıları. İster oymalı klasik, ister pürüzsüz modern tasarımlar.",
+      title: "CNC Kapı Modelleri",
+      desc: "CNC makinelerimizle üretilen modern ve şık kapı modelleri. MDF üzerine işlenen özel desenler, laminat veya PVC kaplama seçenekleri. İç mekan kapılarında geniş model yelpazesi.",
       image: doorClassic,
-      imageAlt: "Classic Carved Wooden Door",
+      imageAlt: "CNC Kapı Modelleri",
     },
     {
       id: "wardrobes",
-      title: "Dolaplar & Gardıroplar",
-      desc: "Mekanınızın ölçülerine tam uyum sağlayan, akıllı depolama çözümleri sunan gömme dolaplar ve bağımsız gardıroplar. Birinci sınıf menteşe ve kulp detaylarıyla.",
+      title: "Şık Dolap Sistemleri",
+      desc: "Sunta ve MDF tabanlı, laminat kaplamalı gömme ve bağımsız dolap sistemleri. Yatak odası gardıroplarından mutfak dolaplarına, her alana özel ölçü üretim.",
       image: wardrobe,
-      imageAlt: "Handcrafted Luxury Wardrobe",
+      imageAlt: "Modern Dolap Sistemi",
     },
     {
       id: "custom",
-      title: "Özel Sipariş Mobilya",
-      desc: "Sizin hayal ettiğiniz, bizim şekil verdiğimiz benzersiz tasarımlar. Mimari projelere özel üretimler, kitaplıklar ve özel ahşap kaplamalar.",
+      title: "Özel Sipariş Üretim",
+      desc: "Projenizi bizimle paylaşın, en uygun malzeme ve model seçeneklerini birlikte belirleyelim. Bireysel konutlardan kurumsal projelere kadar her ölçekte üretim kapasitesi.",
       image: doorModern,
-      imageAlt: "Modern Minimalist Wooden Door",
+      imageAlt: "Özel Sipariş Üretim",
     }
   ];
 
@@ -41,11 +41,11 @@ export function Services() {
             <div className="h-[1px] w-8 bg-primary" />
           </div>
           <h2 className="text-4xl md:text-5xl font-serif text-foreground leading-[1.2] mb-6">
-            Zanaatın Forma Kavuştuğu <br />
-            <span className="italic">Ustalık Eserleri</span>
+            Teknoloji ile Tasarımın <br />
+            <span className="italic">Buluştuğu Nokta</span>
           </h2>
           <p className="text-lg text-foreground/70">
-            Her mekana özel tasarlanan, ahşabın sıcaklığını ve sağlamlığını yansıtan koleksiyonlarımız.
+            CNC hassasiyeti ve geniş malzeme seçenekleriyle her mekana özel üretim yapıyoruz.
           </p>
         </div>
 

@@ -3,20 +3,20 @@ import { motion } from "framer-motion";
 export function Features() {
   const features = [
     {
-      title: "Masif Ahşap",
-      desc: "Suntalam veya MDF değil; birinci sınıf, fırınlanmış gerçek masif ağaç kullanıyoruz.",
+      title: "CNC Hassasiyeti",
+      desc: "Bilgisayar kontrollü CNC makinelerimizle her kesim milimetrik doğrulukta. Tekrar eden desenlerde bile mükemmel sonuç.",
     },
     {
-      title: "El Oyması Detaylar",
-      desc: "CNC makinelerinin yapamayacağı, ruhu olan ince el işçiliği motifler.",
+      title: "MDF & Sunta",
+      desc: "Yüksek yoğunluklu MDF ve sunta plakalarla hem ekonomik hem de dayanıklı üretim. Her bütçeye uygun çözüm.",
     },
     {
-      title: "Doğal Yağlar",
-      desc: "Ahşabın nefes almasını sağlayan, insan sağlığına zararsız doğal koruyucu yağlar ve cilalar.",
+      title: "Laminat Kaplama",
+      desc: "Geniş renk ve desen seçenekleriyle laminat kaplamalar. Mat, parlak veya ahşap dokulu yüzeyler.",
     },
     {
-      title: "Ömürlük Kullanım",
-      desc: "Nesilden nesile aktarılabilecek sağlamlıkta, zamanla güzelleşen mobilyalar.",
+      title: "Ölçüye Özel",
+      desc: "Standart değil, mekana özel üretim. Her kapı ve dolap, alanınızın ölçülerine göre tasarlanır.",
     }
   ];
 

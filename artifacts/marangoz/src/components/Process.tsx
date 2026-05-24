@@ -5,23 +5,23 @@ export function Process() {
   const steps = [
     {
       num: "01",
-      title: "Tasarım & Ölçüm",
-      desc: "Mekanınızda milimetrik ölçüler alınır. İhtiyaçlarınıza ve estetik zevkinize uygun tasarım detayları belirlenir."
+      title: "Ölçü & Tasarım",
+      desc: "Mekanınızın ölçüleri alınır. Model, renk ve malzeme seçimleri (MDF, sunta, laminat) birlikte belirlenir."
     },
     {
       num: "02",
-      title: "Ahşap Seçimi",
-      desc: "Projenin karakterine en uygun ağaç türü seçilir. Keresteler, doku ve renk uyumu için özenle eşleştirilir."
+      title: "CNC Kesim",
+      desc: "Onaylanan tasarım bilgisayar ortamına aktarılır. CNC makinelerimiz her parçayı milimetrik hassasiyetle keser ve işler."
     },
     {
       num: "03",
-      title: "Ustalık Aşaması",
-      desc: "Geleneksel birleştirme teknikleri ve modern hassasiyetle ahşap işlenir, parçalar bir araya getirilir."
+      title: "Kaplama & Boya",
+      desc: "Kesilen parçalara laminat veya PVC kaplama uygulanır, boya ve yüzey işlemleri tamamlanır."
     },
     {
       num: "04",
-      title: "Son Dokunuş",
-      desc: "Zımpara ve doğal yağlarla yüzey işlemi tamamlanır. Ahşabın nefes almasını sağlayan cilalar uygulanır."
+      title: "Montaj & Teslimat",
+      desc: "Tüm parçalar yerinde monte edilir, kontroller yapılır. Temiz ve zamanında teslim garantisi."
     }
   ];
 
