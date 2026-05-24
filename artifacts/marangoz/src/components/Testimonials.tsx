@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 export function Testimonials() {
   const testimonials = [
     {
-      quote: "Yeni evimizin kapıları için Ahşap Usta ile çalıştık. İşçilikteki özen ve ahşabın kokusu evi bir anda yuvaya dönüştürdü. Her misafirimiz kapıları soruyor.",
+      quote: "Yeni evimizin kapıları için Çimen Press ile çalıştık. İşçilikteki özen ve ahşabın kokusu evi bir anda yuvaya dönüştürdü. Her misafirimiz kapıları soruyor.",
       author: "Elif & Can Y.",
       role: "Ev Sahibi",
     },

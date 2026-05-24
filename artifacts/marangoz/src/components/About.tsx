@@ -49,7 +49,7 @@ export function About() {
 
             <div className="space-y-6 text-foreground/75 leading-relaxed">
               <p>
-                Ahşap Usta olarak hikayemiz küçük bir atölyede, talaş kokusu ve zımpara sesleri arasında başladı. Seri üretimin ruhsuzluğuna karşı durarak, ahşabın doğal karakterini koruyan ve ona saygı duyan bir yaklaşım benimsedik.
+                Çimen Press olarak hikayemiz küçük bir atölyede, talaş kokusu ve zımpara sesleri arasında başladı. Seri üretimin ruhsuzluğuna karşı durarak, ahşabın doğal karakterini koruyan ve ona saygı duyan bir yaklaşım benimsedik.
               </p>
               <p>
                 Her bir ağaç kütüğü kendine has bir hikaye anlatır. Damarlarındaki çizgiler, renk geçişleri ve dokusu eşsizdir. Bizim görevimiz, bu doğal güzelliği evinize yakışacak bir forma sokmaktır. İster modern çizgiler barındıran minimalist bir kapı, ister klasik oymalı detaylara sahip devasa bir gardırop olsun; hepsinde aynı hassasiyet ve ustalık gizlidir.
@@ -63,7 +63,7 @@ export function About() {
               <p className="font-serif text-2xl italic text-foreground/90">
                 "İyi bir ahşap işçiliği, gözle görülmeden önce dokunarak hissedilir."
               </p>
-              <p className="mt-2 text-sm text-primary tracking-wide uppercase font-semibold">Ahmet Usta, Kurucu</p>
+              <p className="mt-2 text-sm text-primary tracking-wide uppercase font-semibold">Enver Çimen, Kurucu</p>
             </div>
           </motion.div>
 
