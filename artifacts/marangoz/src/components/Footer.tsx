@@ -37,9 +37,16 @@ export function Footer() {
           <div>
             <h4 className="font-semibold text-foreground mb-6 uppercase tracking-wider text-sm">Sosyal Medya</h4>
             <ul className="space-y-4">
-              <li><a href="#" className="text-foreground/70 hover:text-primary transition-colors">Instagram</a></li>
-              <li><a href="#" className="text-foreground/70 hover:text-primary transition-colors">Pinterest</a></li>
-              <li><a href="#" className="text-foreground/70 hover:text-primary transition-colors">Facebook</a></li>
+              <li>
+                <a
+                  href="https://www.instagram.com/cimenpress/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-foreground/70 hover:text-primary transition-colors"
+                >
+                  Instagram
+                </a>
+              </li>
             </ul>
           </div>
           
