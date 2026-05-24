@@ -44,7 +44,7 @@ export function Navbar() {
       <div className="container mx-auto px-6 flex items-center justify-between">
         <button
           onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-          className="font-serif text-2xl tracking-tight font-medium text-foreground z-50 relative"
+          className="font-display text-3xl tracking-widest text-foreground z-50 relative"
         >
           Çimen Press.
         </button>
