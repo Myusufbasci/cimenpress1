@@ -52,7 +52,7 @@ export function About() {
                 Çimen Press olarak yılların deneyimini CNC teknolojisiyle birleştirdik. Geleneksel üretimin sınırlarını aşarak, bilgisayar destekli tasarım ve hassas kesim makineleriyle her projeyi bir adım öteye taşıyoruz.
               </p>
               <p>
-                MDF, sunta ve laminat gibi modern malzemeleri en verimli şekilde kullanarak hem dayanıklı hem de estetik ürünler ortaya koyuyoruz. İster tek bir kapı, ister tüm bir dairenin dolap sistemi olsun; CNC makinelerimiz aynı hassasiyetle her işi tamamlar.
+                MDF, sunta ve laminant gibi modern malzemeleri en verimli şekilde kullanarak hem dayanıklı hem de estetik ürünler ortaya koyuyoruz. İster tek bir kapı, ister tüm bir dairenin dolap sistemi olsun; CNC makinelerimiz aynı hassasiyetle her işi tamamlar.
               </p>
               <p className="font-medium text-foreground">
                 Teknoloji ve tasarımı birleştirerek yaşam alanlarınızı değiştiriyoruz.
