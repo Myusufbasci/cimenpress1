@@ -48,7 +48,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg md:text-xl text-foreground/80 leading-relaxed mb-10 max-w-xl"
           >
-            CNC makinelerimizle milimetrik hassasiyette üretilen şık kapı modelleri, MDF ve laminat dolaplar. Seri üretimin ötesinde, ölçüye özel çözümler sunuyoruz.
+            CNC makinelerimizle milimetrik hassasiyette üretilen şık kapı modelleri, MDF ve laminant dolaplar. Seri üretimin ötesinde, ölçüye özel çözümler sunuyoruz.
           </motion.p>
 
           <motion.div

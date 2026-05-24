@@ -11,8 +11,8 @@ export function Features() {
       desc: "Yüksek yoğunluklu MDF ve sunta plakalarla hem ekonomik hem de dayanıklı üretim. Her bütçeye uygun çözüm.",
     },
     {
-      title: "Laminat Kaplama",
-      desc: "Geniş renk ve desen seçenekleriyle laminat kaplamalar. Mat, parlak veya ahşap dokulu yüzeyler.",
+      title: "Laminant Kaplama",
+      desc: "Geniş renk ve desen seçenekleriyle laminant kaplamalar. Mat, parlak veya ahşap dokulu yüzeyler.",
     },
     {
       title: "Ölçüye Özel",
