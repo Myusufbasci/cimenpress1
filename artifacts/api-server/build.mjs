@@ -118,6 +118,12 @@ globalThis.__dirname = __bannerPath.dirname(globalThis.__filename);
     `,
     },
   });
+
+  // Copy bundled output to repo root api/ directory for Vercel serverless deployment
+  const { copyFile, mkdir } = await import("node:fs/promises");
+  const apiDir = path.resolve(artifactDir, "../../api");
+  await mkdir(apiDir, { recursive: true });
+  await copyFile(path.join(distDir, "index.mjs"), path.join(apiDir, "index.mjs"));
 }
 
 buildAll().catch((err) => {
